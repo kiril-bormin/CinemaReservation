@@ -12,3 +12,4 @@ C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\
 C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.pdb
 C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.genruntimeconfig.cache
 C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\ref\CinemaReservation.dll
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.sourcelink.json
