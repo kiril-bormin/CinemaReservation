@@ -1,0 +1,14 @@
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.exe
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.deps.json
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.runtimeconfig.json
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.dll
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\bin\Debug\net8.0\CinemaReservation.pdb
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.AssemblyInfoInputs.cache
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.AssemblyInfo.cs
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.csproj.CoreCompileInputs.cache
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.dll
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\refint\CinemaReservation.dll
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.pdb
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\CinemaReservation.genruntimeconfig.cache
+C:\Users\px20umf\Documents\github\CinemaReservation\CinemaReservation\obj\Debug\net8.0\ref\CinemaReservation.dll
