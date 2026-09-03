@@ -8,15 +8,18 @@ namespace CinemaReservation.Classes
 {
     internal class Seance
     {
-        public int Id { get; private set; }
-        public TimeOnly Heure { get; private set; }
-        public DateOnly Date { get; private set; }
+        private static int _compteur = 0;
 
-        public Seance(int id, TimeOnly heure, DateOnly date)
+        public int Id { get; private set; }
+        public DateTime DateHeure { get; private set; }
+        public Film Film { get; private set; }
+        public Salle Salle { get; private set; }
+        public Seance(DateTime dateHeure, Film film, Salle salle)
         {
-            Id = id;
-            Heure = heure;
-            Date = date;
+            Id = ++_compteur;
+            DateHeure = dateHeure;
+            Film = film;
+            Salle = salle;
         }
     }
 }

@@ -8,11 +8,12 @@ namespace CinemaReservation.Classes
 {
     internal class Salle
     {
+        private int _compteur = 0;
         public int Id { get; private set; }
         public string Nom { get; private set; }
-        public Salle(int id, string nom)
+        public Salle(string nom)
         {
-            Id = id;
+            Id = _compteur++;
             Nom = nom;
         }
     }

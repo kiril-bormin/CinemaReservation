@@ -7,32 +7,48 @@
       "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\siege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\siege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\seance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\seance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\cinemareservation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:cinemareservation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\reservations\\reservationvip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\reservations\\reservationvip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\reservations\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\reservations\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\reservations\\reservationenfant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\reservations\\reservationenfant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\reservations\\reservationetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\reservations\\reservationetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\classes\\reservations\\reservationstandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:classes\\reservations\\reservationstandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|c:\\users\\px20umf\\documents\\github\\cinemareservation\\cinemareservation\\cinemareservation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4941FFD-E1FB-48D3-8BEB-E5D173137C1C}|CinemaReservation.csproj|solutionrelative:cinemareservation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,58 +67,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CinemaReservation",
-              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\CinemaReservation.csproj",
-              "RelativeDocumentMoniker": "CinemaReservation.csproj",
-              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\CinemaReservation.csproj",
-              "RelativeToolTip": "CinemaReservation.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-27T10:02:29.995Z",
+              "Title": "ReservationVip.cs",
+              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\ReservationVip.cs",
+              "RelativeDocumentMoniker": "Classes\\Reservations\\ReservationVip.cs",
+              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\ReservationVip.cs",
+              "RelativeToolTip": "Classes\\Reservations\\ReservationVip.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:35:53.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "ReservationEnfant.cs",
+              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\ReservationEnfant.cs",
+              "RelativeDocumentMoniker": "Classes\\Reservations\\ReservationEnfant.cs",
+              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\ReservationEnfant.cs",
+              "RelativeToolTip": "Classes\\Reservations\\ReservationEnfant.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:35:41.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationEtudiant.cs",
+              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\ReservationEtudiant.cs",
+              "RelativeDocumentMoniker": "Classes\\Reservations\\ReservationEtudiant.cs",
+              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\ReservationEtudiant.cs",
+              "RelativeToolTip": "Classes\\Reservations\\ReservationEtudiant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:35:23.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationStandard.cs",
+              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\ReservationStandard.cs",
+              "RelativeDocumentMoniker": "Classes\\Reservations\\ReservationStandard.cs",
+              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\ReservationStandard.cs",
+              "RelativeToolTip": "Classes\\Reservations\\ReservationStandard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:33:17.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Client.cs",
               "RelativeDocumentMoniker": "Classes\\Client.cs",
               "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Client.cs",
               "RelativeToolTip": "Classes\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T10:05:58.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservation.cs",
-              "RelativeDocumentMoniker": "Classes\\Reservation.cs",
-              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservation.cs",
-              "RelativeToolTip": "Classes\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\Reservation.cs",
+              "RelativeDocumentMoniker": "Classes\\Reservations\\Reservation.cs",
+              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Reservations\\Reservation.cs",
+              "RelativeToolTip": "Classes\\Reservations\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T10:04:19.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Siege.cs",
               "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Siege.cs",
               "RelativeDocumentMoniker": "Classes\\Siege.cs",
               "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Siege.cs",
               "RelativeToolTip": "Classes\\Siege.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T10:02:42.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Salle.cs",
               "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Salle.cs",
               "RelativeDocumentMoniker": "Classes\\Salle.cs",
@@ -121,22 +176,9 @@
               "RelativeDocumentMoniker": "Classes\\Seance.cs",
               "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Seance.cs",
               "RelativeToolTip": "Classes\\Seance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T09:50:11.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Film.cs",
-              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Film.cs",
-              "RelativeDocumentMoniker": "Classes\\Film.cs",
-              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Film.cs",
-              "RelativeToolTip": "Classes\\Film.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T08:57:43.356Z",
               "EditorCaption": ""
             },
             {
@@ -147,10 +189,35 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-27T08:55:54.871Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Film.cs",
+              "RelativeDocumentMoniker": "Classes\\Film.cs",
+              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\Classes\\Film.cs",
+              "RelativeToolTip": "Classes\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T08:57:43.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CinemaReservation.csproj",
+              "DocumentMoniker": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\CinemaReservation.csproj",
+              "RelativeDocumentMoniker": "CinemaReservation.csproj",
+              "ToolTip": "C:\\Users\\px20umf\\Documents\\github\\CinemaReservation\\CinemaReservation\\CinemaReservation.csproj",
+              "RelativeToolTip": "CinemaReservation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T10:02:29.995Z"
             }
           ]
         }

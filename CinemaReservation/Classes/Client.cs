@@ -8,6 +8,7 @@ namespace CinemaReservation.Classes
 {
     internal class Client
     {
+        private static int _compteur = 0;
         public int Id { get; private set; }
         public string Prenom { get; private set; }
         public string Nom { get; private set; }
@@ -15,9 +16,9 @@ namespace CinemaReservation.Classes
         public string Email { get; private set; }
         public string NumeroTelephone { get; private set; }
 
-        public Client(int id, string prenom, string nom, int age, string email, string numeroTelephone)
+        public Client(string prenom, string nom, int age, string email, string numeroTelephone)
         {
-            Id = id;
+            Id = _compteur++;
             Prenom = prenom;
             Nom = nom;
             Age = age;
