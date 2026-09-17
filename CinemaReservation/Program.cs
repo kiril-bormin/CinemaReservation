@@ -1,5 +1,6 @@
 ﻿using CinemaReservation.Classes;
 using CinemaReservation.Classes.Reservations;
+using System.Linq;
 
 namespace CinemaReservation
 {
@@ -7,8 +8,6 @@ namespace CinemaReservation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-
             Salle SalleA1 = new Salle("Grande Salle étage 1");
 
             Siege SiegeA1 = new Siege("première", 01, "Standard", 16);
@@ -20,11 +19,15 @@ namespace CinemaReservation
 
             Client clientAlice = new Client("Alice", "Wonderfull", 23, "alicewonderfull@etml.net", "076 454 32 33" );
 
-
             var maReservation = new ReservationStandard(1, DateTime.Now, clientAlice, Avatar_03092026_1200, SiegeA1);
 
-            Console.WriteLine(maReservation.DateAchat);
-
+            if (args.Contains("--reserver"))
+            {
+                if(args.Length < 3)
+                {
+                    Console.WriteLine("Merci d'utiliser la syntaxe suivante : -- reserver <Nom> <Scéance> <Place>");
+                }
+            }
             Console.ReadLine();
         }
     }

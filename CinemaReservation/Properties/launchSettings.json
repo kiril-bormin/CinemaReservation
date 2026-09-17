@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CinemaReservation": {
+      "commandName": "Project",
+      "commandLineArgs": "--reserver"
+    }
+  }
+}
